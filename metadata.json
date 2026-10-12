@@ -1,0 +1,6 @@
+{
+  "name": "Singapore PSI Tracker & 30-Day Forecast",
+  "description": "Real-time Singapore Pollutant Standards Index (PSI) monitoring, 5-region comparisons, historical air quality tracking, and rolling 30-day statistical forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
